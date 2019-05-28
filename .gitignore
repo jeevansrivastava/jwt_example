@@ -1,2 +1,4 @@
 env/
 app.db/
+.idea/
+__pycache__/
